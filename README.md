@@ -9,11 +9,11 @@ A entrega deverá ser o endereço de um repositório público no Github, sendo q
 
 
 
-#Realização
+# Realização
 
 Utilizamos o MongoDB para realização desse projeto. Criamos um db no MongoDB Atlas e o preenchemos com comandos pelo MongoDB shell.
 
-#Comandos para criação da tabela:
+# Comandos para criação da tabela:
 
 
 // Deletar dados existentes
