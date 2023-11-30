@@ -202,7 +202,7 @@ db.student.insertMany([
 ]);
 
 
-#Queries
+# Queries
 
 1 - db.takes.aggregate([
   {
@@ -374,3 +374,8 @@ db.student.insertMany([
   }
 ]);
 
+
+
+# Conexão
+
+Caso deseje conectar, chave de Connection String para executar no MongoDB Shell: mongodb+srv://bielbolado:Hh7rapbscn@cluster0.ntkvsyl.mongodb.net/?retryWrites=true&w=majority
