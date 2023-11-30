@@ -10,6 +10,11 @@ A entrega deverá ser o endereço de um repositório público no Github, sendo q
 
 # Realização
 
+Grupo:
+Enzo Benvenuti   22.121.074-3
+Gabriel Carvalho 22.121.112-1
+Thiago Arraujo   22.218.011-9
+
 Utilizamos o MongoDB para realização desse projeto. Criamos um db no MongoDB Atlas e o preenchemos com comandos pelo MongoDB shell.
 
 
